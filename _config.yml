@@ -1,0 +1,9 @@
+# basic options this file is a test
+title: Voices For Youth
+author: Kevin Mead & Ryan Gurry
+email: kevin@mead.me
+twitter_username: @RyanGurry
+
+# Build settings
+markdown: kramdown
+theme: minima
